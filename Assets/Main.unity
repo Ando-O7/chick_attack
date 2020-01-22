@@ -247,6 +247,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 8
   moveableRange: 5.5
+  power: 1000
+  cannonBall: {fileID: 8860419175120364166, guid: 6220b07dd6052405a9bfc17d1e9d230f,
+    type: 3}
+  spawnPoint: {fileID: 173400269}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
