@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class DestroyObj : MonoBehaviour
 {
     public float deleteTime = 2.0f;
 
