@@ -550,7 +550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86aa4dc8072414546bdbaab680f55de7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obj: {fileID: 0}
+  obj: {fileID: 8584087204266812897, guid: fa3e2bb66cfe2443eae92520fb33eb52, type: 3}
   interval: 3
 --- !u!4 &1348546745
 Transform:
