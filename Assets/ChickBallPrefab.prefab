@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 546497136592704254}
   - component: {fileID: 9122185649768164906}
   - component: {fileID: 8522110484506265025}
+  - component: {fileID: 8787069283435849544}
   m_Layer: 0
   m_Name: ChickBallPrefab
   m_TagString: Untagged
@@ -119,3 +120,16 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.73
+--- !u!114 &8787069283435849544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8584087204266812897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef452141fa854a92a40df89745073d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deleteTime: 10
